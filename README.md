@@ -36,7 +36,7 @@ Follow the steps below to use this tool:
 
 If you spot an error or something doesn't make sense, feel free to send me a pull request. Thanks for your contribution!
 
-## Issues, Feedback, Contact Details
+## Bug Reports and Feedback
 
 If you encounter any bugs or have any feedback, please raise them under Github issues. Pull requests are also more than welcome.
 
