@@ -7,7 +7,7 @@ from datetime import datetime
 
 #Constants
 
-WAIT_TIME = 10 #The time interval between checking different numbers should be adjusted based on your internet speed.
+WAIT_TIME = 30 #The time interval between checking different numbers should be adjusted based on your internet speed.
 
 def is_number_available(driver, number, csv_writer):
     # Get the HTML source of the page
