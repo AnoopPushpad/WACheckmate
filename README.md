@@ -1,4 +1,4 @@
-<h1 align="center">WA Checkmate</h1>
+<h1 align="center">WACheckmate</h1>
 <h3 align="center">WhatsApp Bulk Number Checker & Validator Tool</h3>
 
 WACheckmate is a bulk WhatsApp number checking tool crafted with Python and utilizing Selenium.
