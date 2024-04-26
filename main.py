@@ -132,5 +132,5 @@ with open("numbers.txt", "r") as file, open(csvfilename, "w", newline="") as csv
 # Close the WebDriver session
 driver.quit()
 print(
-    f"WhatsApp number checking completed! The results have been saved into {csvfilename}.csv"
+    f"WhatsApp number checking completed! The results have been saved into {csvfilename}"
 )
