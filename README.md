@@ -22,7 +22,9 @@ pip install selenium
 ```
 ## How to Use it ? (Usage)
 
-Follow the steps below to use this tool:
+#### Follow the steps below to use this tool:
+
+> Sidenote: For a visual guide on how to use this tool, you can watch this [video tutorial](https://youtu.be/v0pU5Z9qrvI).
 
 1. Ensure you have Python installed on your Windows system. If not, you can download and install it from [here](https://www.python.org/downloads/). Additionally, I have already included the Windows chromedriver with the repository. However, if you are not using Windows, you can download the appropriate chromedriver from [here](https://googlechromelabs.github.io/chrome-for-testing/) for your system.
 
